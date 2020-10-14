@@ -1,7 +1,7 @@
-git fetch --all
 @echo on
+git fetch --all
 echo.
 pause
-git pull origin master
 @echo on
+git pull origin master
 echo.
